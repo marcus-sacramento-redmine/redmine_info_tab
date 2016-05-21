@@ -1,0 +1,2 @@
+module RedmineInfoTabHelper
+end

@@ -1,0 +1,6 @@
+# English strings go here for Rails i18n
+en:
+  # my_label: "My label"
+
+  info_label: "Displayed text(HTML)"
+  info_tab_menu: "About"
