@@ -1,6 +1,6 @@
 # Redmine Info Tab
 
->Plugin criado para permitir a visualição de informações sobre os projetos e o uso da aplicação a partir de um menu na página da aplicação
+>Plugin criado para permitir a visualização de informações sobre os projetos e o uso da aplicação a partir de um menu na página da aplicação
 >Você pode testá-lo gratuitamente em nosso [Redmine para demonstração](http://redmine-marcusacramento.rhcloud.com/) com usuário e senha: visitante
 
 
@@ -8,7 +8,7 @@
 ## Atenção
 * **_Leia atentamente as instruções para instalação;_**
 * **_Este projeto foi desenvolvido como experiência sobre a linguagem Ruby, portanto eventuais correções e/ou susgestões poderão ser realizadas com certa demora a depender do tempo disponível do desenvolvedor;_**
-
+* **_Este plugin utiliza o editor WYSIWYG tinymce. Caso não haja conectividade com a internet o mesmo irá aparecer apenas um text area na configuração do plugin_**
 ***
 
 ### Informações sobre o ambiente utilizado no desenvolvimento:
@@ -40,5 +40,4 @@ SCM:
 
 >> O Plugin exige que seja configurado o campo que irá conter o texto HTML para ser exibido na página inicial
 
-* Configure o Campo Customizado para o Portfolio do Projeto. Esse campo deverá ser do formato Lista e **não** aceitar múltiplos valores. Nos possíveis valores se encontrarão os nomes a serem dados aos Portfolios de Projeto:
 
