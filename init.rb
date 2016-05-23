@@ -9,7 +9,7 @@ Redmine::Plugin.register :redmine_info_tab do
   
     menu :top_menu, :redmine_info_tab, { :controller => 'redmine_info_tab', :action => 'index' }, :caption => :info_tab_menu
      settings :default => {
-    :information_html => ''
+    :information_html => '',
   }, :partial => 'redmine_info_tab/redmine_info_tab_settings'
   
   
